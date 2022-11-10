@@ -1,0 +1,21 @@
+body{
+  background-color:white;
+}
+
+h1{
+  color: #5DA7DB;
+}
+h3{
+  color: #5DA7DB;
+}
+
+hr{
+  background-color: white;
+  border-style: none;
+}
+th, td {
+  padding-top: 10px;
+  padding-bottom: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+}
